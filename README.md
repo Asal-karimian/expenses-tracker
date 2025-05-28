@@ -4,19 +4,18 @@
 
 ---
 
-## 🎯 Goal of the Project
+## Goal of the Project
 
 Managing personal finances can be overwhelming, especially when tracking multiple categories manually or across scattered tools. The goal of this app is to provide:
 
-- ✅ A **simple, user-friendly interface** to log and manage expenses
-- 📊 Clear **visual insights** (pie and line charts) to understand spending behavior
-- 🧾 A quick way to **generate reports** and view maximum spending per category
-- 📁 A lightweight and local **SQLite** database backend for offline usage
+- A **simple, user-friendly interface** to log and manage expenses
+- Clear **visual insights** (pie and line charts) to understand spending behavior
+-  A quick way to **generate reports** and view maximum spending per category
+-  A lightweight and local **SQLite** database backend for offline usage
 
 ---
 
 ##  Project Structure
-
 expenses_tracker/
 expenses_tracker/
 │

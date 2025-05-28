@@ -16,6 +16,7 @@ Managing personal finances can be overwhelming, especially when tracking multipl
 ---
 
 ##  Project Structure
-![image](https://github.com/user-attachments/assets/259efb60-9ad6-4e71-9b70-60d337f5ebdd)
+![image](https://github.com/user-attachments/assets/de0cfadd-245c-4cc0-a39c-16391b2e1f73)
+
 
 

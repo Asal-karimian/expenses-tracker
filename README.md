@@ -16,25 +16,6 @@ Managing personal finances can be overwhelming, especially when tracking multipl
 ---
 
 ##  Project Structure
-expenses_tracker/
-  expenses_tracker/
-  │
-  ├── .streamlit/              # Streamlit settings (theme, layout)
-  │   └── config.toml
-  │
-  ├── db/                      # Database layer
-  │   └── database.py
-  │
-  ├── pages/                   # Additional Streamlit pages
-  │   ├── add_expenses.py
-  │   ├── overall.py
-  │   └── report.py
-  │
-  ├── utils/                   # Utility services (plotting, calculations)
-  │   └── services.py
-  │
-  ├── app.py                   # Main Streamlit entry point
-  ├── expenses.db              # SQLite database file
-  ├── requirements.txt         # List of Python dependencies
+![image](https://github.com/user-attachments/assets/259efb60-9ad6-4e71-9b70-60d337f5ebdd)
 
 

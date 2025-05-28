@@ -16,6 +16,7 @@ Managing personal finances can be overwhelming, especially when tracking multipl
 ---
 
 ##  Project Structure
+
 expenses_tracker/
 │
 ├── .streamlit/ # Streamlit settings (theme, layout)
@@ -36,6 +37,7 @@ expenses_tracker/
 ├── expenses.db # SQLite database file
 ├── requirements.txt # Python dependencies
 
+---
 ## Why I Designed It
 This project was developed as part of a university assignment where the goal was to create a website with a well-designed UI and UX, connected to a database.
 

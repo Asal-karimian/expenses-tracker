@@ -38,14 +38,4 @@ expenses_tracker/
 ├── expenses.db              # SQLite database file
 ├── requirements.txt         # List of Python dependencies
 
----
-## Why I Designed It
-This project was developed as part of a university assignment where the goal was to create a website with a well-designed UI and UX, connected to a database.
 
-As a Data Science student, I saw this as an opportunity to merge the project requirements with my own learning path. Instead of building just a static website, I wanted to:
-
-📊 Apply data science concepts like data handling, aggregation, and visualization
-
-🔄 Build a dynamic app that provides real-time feedback through visual charts
-
-🧠 Practice Python-based tools relevant to my career, like Streamlit, SQLite, and Plotly
